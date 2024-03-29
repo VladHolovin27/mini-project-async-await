@@ -1,0 +1,12 @@
+{
+  "name": "your-project-name",
+  "version": "1.0.0",
+  "description": "Your project description",
+  "main": "index.js",
+  "scripts": {
+    "server": "json-server --watch db.json --port 3000"
+  },
+  "devDependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
+}

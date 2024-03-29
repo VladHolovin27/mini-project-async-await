@@ -1,0 +1,676 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "age": 20,
+      "email": "john.doe@example.com",
+      "phone": "555-1234",
+      "body": "CRUD is really awesome"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "age": 21,
+      "email": "jane.smith@example.com",
+      "phone": "555-5678"
+    },
+    {
+      "id": "3",
+      "name": "Bob Johnson",
+      "age": 19,
+      "email": "bob.johnson@example.com",
+      "phone": "555-9012"
+    },
+    {
+      "id": "ab41",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "b145",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "7922",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "98da",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "cf5b",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "fdc4",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "5d98",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "c23a",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "a8e0",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "fdcd",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "d2a0",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "0e9f",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "3587",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "b07f",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "e9ef",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "f21c",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "2704",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "d337",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "4607",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "6d2e",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "70fd",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "ad8a",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "6859",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "bb23",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "e242",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "1533",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "b0f1",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "ceb5",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "4c3d",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "3124",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "6297",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "e696",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "df9d",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "88f4",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "a78d",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "2c85",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "2e83",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "606e",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "769f",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "200a",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "5654",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "b755",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "2d14",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "5e5a",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "8cc8",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "c718",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "6284",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "4526",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "71fa",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "acc1",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "6d59",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "c32a",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "bf20",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "b5ed",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "cec5",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "dc7f",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "5398",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "348d",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "d4a5",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "fdba",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "bdf3",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "dce2",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "0e2d",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "8402",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "da0d",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "8859",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "a6be",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "75a7",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "5acd",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "aeda",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "426d",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "30a2",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "e20b",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "45c4",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "7636",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "4dc9",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "6ac0",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "77ef",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "a79f",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "bfd0",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "6c68",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "351c",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "f007",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "8409",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "8747",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "7f6a",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "d62c",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "39e4",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "acfa",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "901e",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "4a0f",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "f5d0",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "19f4",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "d459",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "3d9b",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "1b7a",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "c483",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "d352",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "93b1",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "fae9",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "cf58",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "3dd6",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "6a0d",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "48f2",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "e646",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "b284",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "82b1",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "c1d3",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "c747",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "8a00",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "6d90",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "f047",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "84e0",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "11ab",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "8923",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "e062",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "c7a8",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "21b3",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "b0e8",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "b9fc",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "a45d",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "60d0",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "4088",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "b3b6",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "9106",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "509d",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "cbcd",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "7cc2",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "8c54",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    },
+    {
+      "id": "c5aa",
+      "name": "Mango",
+      "body": "CRUD is awesome"
+    }
+  ]
+}
